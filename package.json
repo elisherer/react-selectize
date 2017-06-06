@@ -1,6 +1,6 @@
 {
   "name": "@payoneer/react-selectize-custom",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A Stateless & Flexible Select component for React inspired by Selectize",
   "main": "src/index.js",
   "scripts": {
